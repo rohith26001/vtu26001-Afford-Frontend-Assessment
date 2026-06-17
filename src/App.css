@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  min-width: 180px;
+  text-align: center;
+  border-radius: 8px;
+  background: white;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}

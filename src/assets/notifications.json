@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "TCS Placement Drive",
+    "category": "Placement",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "title": "Semester Results",
+    "category": "Result",
+    "priority": "Medium"
+  }
+]
